@@ -30,7 +30,7 @@ This stick uses multiple sensors to detect obstacles, monitor environmental temp
 5. **Power Off** – Press and hold the button again to turn off the system.
 
 ## Circuit Diagram
-!{Cirucuit Diagram}(/images/Circuit_Diagram.png)
+![Cirucuit Diagram](/images/Circuit_Diagram.png)
 
 ## Code
 The project is programmed in **Arduino C/C++**. You can find the full code in the repository.
